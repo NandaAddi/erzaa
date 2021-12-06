@@ -1,0 +1,38 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #474642;
+}
+
+#projects {
+  background-color: #474642;
+}
+footer {
+  background-color: #bcdf1f;
+}
+
+section {
+  padding-top: 5rem;
+}
+#about {
+  background-color: #b6a2a2;
+}
+#contact {
+  background-color: #474642;
+}
+
+.motto {
+  padding: 0 6rem 0 6rem !important;
+}
+nav {
+  background-color: #272529 !important;
+}
+.btn-loading,
+.btn-kirim {
+  background-color: #2e2d30;
+  color: #f8f9fa;
+}
+.form-label {
+    background-color: #474642;
+    color: #f8f9fa;
+  }
+}
